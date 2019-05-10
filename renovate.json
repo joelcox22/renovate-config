@@ -2,7 +2,7 @@
   "extends": [
 	"config:base"
   ],
-  "assignee": ["joelcox22"],
+  "assignees": ["joelcox22"],
   "automerge": true,
   "major": {
 	"automerge": false
